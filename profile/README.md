@@ -12,3 +12,4 @@ Welcome to the DL4MIA 2022 organization. The various exercise repositories are g
 - [03 - Segmentation with UNet](https://github.com/dl4mia/03_segmentation_unet)
 - [04 - Instance segmentation](https://github.com/dl4mia/04_instance_segmentation)
 - [05 - Instance segmentation with EmbedSeg](https://github.com/dl4mia/05_instance_segmentation_EmbedSeg)
+- [06 - Image labeling with Labkit](https://github.com/dl4mia/06_labeling_with_labkit)
