@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/dl4mia/.github/2024/img/DL4MIA_banner_2024.png)
 
 
-Welcome to the EMBO-DL4MIA 2024 organization page.
+Welcome to the EMBO-DL4MIA 2024 organization page. 🎉
 
 This 2024 edition of the HT course DL4MIA will be organised in-person at Human Technopole (Milan, Italy) with the contribution of the European Molecular Biology Organisation (EMBO).
 
