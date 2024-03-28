@@ -15,6 +15,8 @@ During the last four days, participants will work in teams, guided by the course
 
 ## Content:
 
+All course material can be cloned from the [main repository](https://github.com/dl4mia/DL4MIA_2024/tree/main).
+
 
 - [Pre-Course Webinars](https://github.com/dl4mia/DL4MIA_Pre-course_Webinar)
 <!---- [00 - First steps](https://github.com/dl4mia/00_first_steps)
