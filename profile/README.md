@@ -20,7 +20,7 @@ It will take place at the Human Technopole in Milan from the 08.05 to the 16/05.
 -->
 
 
-## Organizers:
+## Scientific organizers:
 
 (soon)
 
