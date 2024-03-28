@@ -1,4 +1,4 @@
-# DL4MIA 2022
+# DL4MIA 2024
 
 ![banner.png](https://raw.githubusercontent.com/dl4mia/.github/2024/img/DL4MIA_banner_2024.png)
 
